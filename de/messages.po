@@ -755,7 +755,7 @@ msgstr "<0>Dein Konto erfordert eine zusätzliche Verifizierung. Bitte verifizie
 
 #: src/components/_layout/LayoutOptions.tsx:95
 msgid "= consumes more power"
-msgstr ""
+msgstr " = verbraucht mehr Energie"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1701,7 +1701,7 @@ msgstr "Automatische Genehmigung"
 #: src/components/_layout/LayoutOptions.tsx:175
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
-msgstr ""
+msgstr "Automatisch ausrüsten, wenn Gegenstand zerbricht"
 
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
@@ -1815,7 +1815,7 @@ msgstr "Schlacht beendet"
 
 #: src/components/_military/battle/BattleName.tsx:147
 msgid "Battle for {regionName} {score}"
-msgstr ""
+msgstr "Kampf um {regionName} {score}"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
@@ -1869,7 +1869,7 @@ msgstr "Kandidat werden"
 #: src/components/_layout/LayoutOptions.tsx:195
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
-msgstr ""
+msgstr "Bestes"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
@@ -1893,7 +1893,7 @@ msgstr "Blauer Stab"
 
 #: src/components/_layout/LayoutOptions.tsx:149
 msgid "Blur"
-msgstr ""
+msgstr "Unschärfe"
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
 #: src/components/_political/law/law.frontConfig.tsx:241
@@ -3658,7 +3658,7 @@ msgstr "Supporter-Plan holen"
 
 #: src/components/_user/kits/KitsPopover.tsx:215
 msgid "Get Supporter Plan"
-msgstr ""
+msgstr "Supporter-Plan holen"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:94
 msgid "Gift from Vatou, don't tell anyone"
@@ -4481,7 +4481,7 @@ msgstr "Karte"
 #: src/components/_layout/LayoutLeftIcons.tsx:68
 #: src/components/_layout/LayoutOptions.tsx:98
 msgid "Map"
-msgstr ""
+msgstr "Karte"
 
 #: src/components/_political/law/LawFormModal.tsx:266
 msgid "Map Accent"
@@ -6180,7 +6180,7 @@ msgstr "Benutzer melden"
 
 #: src/components/_user/user/UserHeader.tsx:192
 msgid "Reports"
-msgstr ""
+msgstr "Meldungen"
 
 #: src/components/_political/party/party.frontConfig.tsx:217
 #: src/components/_political/party/party.frontConfig.tsx:232
@@ -6245,7 +6245,7 @@ msgstr "Widerstands-Unterstützer"
 
 #: src/components/_military/battle/BattleName.tsx:152
 msgid "Resistance for {regionName} {score}"
-msgstr ""
+msgstr "Widerstand für {regionName} {score}"
 
 #: src/pages/country/[countryId]/index.tsx:315
 #: src/pages/region/[regionId]/index.tsx:49
@@ -6278,7 +6278,7 @@ msgstr "Rebellion gestartet!"
 
 #: src/components/_military/battle/BattleName.tsx:157
 msgid "Revolution {score}"
-msgstr ""
+msgstr "Revolution {score}"
 
 #: src/components/_political/event/EventList.tsx:77
 msgid "Revolution ended"
@@ -6396,7 +6396,7 @@ msgstr "Speichern"
 
 #: src/components/_user/kits/KitsPopover.tsx:201
 msgid "Save your equipment kits"
-msgstr ""
+msgstr "Ausrüstungs-Sets speichern"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:124
 msgid "Save your progress!"
@@ -6960,7 +6960,7 @@ msgstr "Supporter-Plan"
 
 #: src/components/_user/kits/KitsPopover.tsx:204
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
-msgstr ""
+msgstr "Mit dem Supporter-Plan kannst du bis zu {maxKits} individuelle Ausrüstungs-Sets speichern und mit einem Klick zwischen ihnen wechseln."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
@@ -7371,7 +7371,7 @@ msgstr "Turnier"
 
 #: src/components/_military/battle/BattleName.tsx:160
 msgid "Tournament battle for {tournamentName} {score}"
-msgstr ""
+msgstr "Turnierka­mpf um {tournamentName} {score}"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2038
 msgid "Tournament Created"
@@ -7467,7 +7467,7 @@ msgstr "Tutorials zurückgesetzt"
 
 #: src/components/_layout/LayoutOptions.tsx:146
 msgid "UI"
-msgstr ""
+msgstr "Benutzeroberfläche"
 
 #: src/components/_user/user/UserDropdown.tsx:277
 msgid "Unblock (show content)"
@@ -8011,7 +8011,7 @@ msgstr "Für andere zu arbeiten ist ein guter Weg, um am Anfang Geld zu verdiene
 #: src/components/_layout/LayoutOptions.tsx:207
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
-msgstr ""
+msgstr "Schlechtestes"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"
