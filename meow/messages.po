@@ -98,7 +98,7 @@ msgstr "{0} meow"
 
 #. placeholder {0}: data.outbidByMuName
 #. placeholder {1}: data.newPerK
-#: src/components/_user/notification/notification.frontConfig.tsx:1675
+#: src/components/_user/notification/notification.frontConfig.tsx:1669
 msgid "{0} outbid you at ${1}/K"
 msgstr "{0} meow meow meow ${1}/meow"
 
@@ -172,7 +172,7 @@ msgid "/day"
 msgstr "/meow"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:379
-#: src/components/_user/notification/notification.frontConfig.tsx:1098
+#: src/components/_user/notification/notification.frontConfig.tsx:1094
 msgid "<0/> applied to join <1/>"
 msgstr "<0/> meow meow meow <1/>"
 
@@ -182,21 +182,21 @@ msgstr "<0/> meow meow meow <1/>"
 msgid "<0/> at <1>{0}</1> wage.{1}"
 msgstr "<0/> meow <1>{0}</1> meow.{1}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1856
+#: src/components/_user/notification/notification.frontConfig.tsx:1850
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
 msgstr "<0/> meow meow {assetLabel} meow meow meow meow <1/>!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1863
+#: src/components/_user/notification/notification.frontConfig.tsx:1857
 msgid "<0/> bought your {assetLabel}!"
 msgstr "<0/> meow meow {assetLabel}!"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
-#: src/components/_user/notification/notification.frontConfig.tsx:1510
+#: src/components/_user/notification/notification.frontConfig.tsx:1504
 msgid "<0/> bought your banner{0} as a gift for <1/>!"
 msgstr "<0/> meow meow meow{0} meow meow meow meow <1/>!"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
-#: src/components/_user/notification/notification.frontConfig.tsx:1518
+#: src/components/_user/notification/notification.frontConfig.tsx:1512
 msgid "<0/> bought your banner{0}!"
 msgstr "<0/> meow meow meow{0}!"
 
@@ -210,7 +210,7 @@ msgstr "<0/> meow <1/> meow <2>{0}</2>"
 msgid "<0/> buys your region <1/> for <2>{0}</2>"
 msgstr "<0/> meow meow meow <1/> meow <2>{0}</2>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1595
+#: src/components/_user/notification/notification.frontConfig.tsx:1589
 msgid "<0/> cancelled the contract."
 msgstr "<0/> meow meow meow."
 
@@ -218,7 +218,7 @@ msgstr "<0/> meow meow meow."
 msgid "<0/> commented on your article <1/>"
 msgstr "<0/> meow meow meow meow <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1570
+#: src/components/_user/notification/notification.frontConfig.tsx:1564
 msgid "<0/> completed a contract, you earned <1/>"
 msgstr "<0/> meow meow meow, meow meow <1/>"
 
@@ -239,7 +239,7 @@ msgid "<0/> defended in <1/>"
 msgstr "<0/> meow meow <1/>"
 
 #. placeholder {0}: data.amount
-#: src/components/_user/notification/notification.frontConfig.tsx:1172
+#: src/components/_user/notification/notification.frontConfig.tsx:1168
 msgid "<0/> donated <1>{0}</1> to <2/>"
 msgstr "<0/> meow <1>{0}</1> meow <2/>"
 
@@ -268,21 +268,21 @@ msgstr "<0/> meow meow meow meow <1/> meow <2/> meow <3/>"
 msgid "<0/> gifted a sub to <1/>"
 msgstr "<0/> meow meow meow meow <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1035
+#: src/components/_user/notification/notification.frontConfig.tsx:1031
 msgid "<0/> gifted you a premium subscription!"
 msgstr "<0/> meow meow meow meow meow!"
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1479
+#: src/components/_user/notification/notification.frontConfig.tsx:1473
 msgid "<0/> gifted you the banner \"{0}\"!"
 msgstr "<0/> meow meow meow meow \"{0}\"!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1746
+#: src/components/_user/notification/notification.frontConfig.tsx:1740
 msgid "<0/> gifted you the skin \"{skinTitle}\"!"
 msgstr "<0/> meow meow meow meow \"{skinTitle}\"!"
 
 #. placeholder {0}: data.skinPackTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1809
+#: src/components/_user/notification/notification.frontConfig.tsx:1803
 msgid "<0/> gifted you the skin pack \"{0}\"!"
 msgstr "<0/> meow meow meow meow meow \"{0}\"!"
 
@@ -290,7 +290,7 @@ msgstr "<0/> meow meow meow meow meow \"{0}\"!"
 msgid "<0/> got fee back"
 msgstr "<0/> meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1332
+#: src/components/_user/notification/notification.frontConfig.tsx:1326
 msgid "<0/> has been created, it gonna start soon!"
 msgstr "<0/> meow meow meow, meow meow meow meow!"
 
@@ -331,11 +331,11 @@ msgstr "<0/> meow meow meow meow meow <1/>"
 msgid "<0/> has liberated <1/> and returned it to <2/>"
 msgstr "<0/> meow meow <1/> meow meow meow meow <2/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:956
+#: src/components/_user/notification/notification.frontConfig.tsx:952
 msgid "<0/> has started a revolution in <1/>"
 msgstr "<0/> meow meow meow meow meow <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1345
+#: src/components/_user/notification/notification.frontConfig.tsx:1339
 msgid "<0/> has started! Let the battles begin!"
 msgstr "<0/> meow meow! Meow meow meow meow!"
 
@@ -348,7 +348,7 @@ msgstr "<0/> meow meow meow meow <1/>"
 msgid "<0/> has transferred <1>{0}</1> to <2/>"
 msgstr "<0/> meow meow <1>{0}</1> meow <2/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:912
+#: src/components/_user/notification/notification.frontConfig.tsx:908
 msgid "<0/> is attacking <1/> in <2/>"
 msgstr "<0/> meow meow <1/> meow <2/>"
 
@@ -356,7 +356,7 @@ msgstr "<0/> meow meow <1/> meow <2/>"
 msgid "<0/> is attacking in <1/>"
 msgstr "<0/> meow meow meow <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:898
+#: src/components/_user/notification/notification.frontConfig.tsx:894
 msgid "<0/> is attacking your country in <1/>"
 msgstr "<0/> meow meow meow meow meow <1/>"
 
@@ -368,7 +368,7 @@ msgstr "<0/> meow meow meow. Meow meow meow meow meow meow meow meow."
 msgid "<0/> is revolting in <1/>"
 msgstr "<0/> meow meow meow <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:927
+#: src/components/_user/notification/notification.frontConfig.tsx:923
 msgid "<0/> is revolting in <1/> against your country"
 msgstr "<0/> meow meow meow <1/> meow meow meow"
 
@@ -402,7 +402,7 @@ msgstr "<0/> meow meow meow"
 msgid "<0/> liked your article <1/>"
 msgstr "<0/> meow meow meow <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:831
+#: src/components/_user/notification/notification.frontConfig.tsx:829
 msgid "<0/> liked your message <1/>"
 msgstr "<0/> meow meow meow <1/>"
 
@@ -414,7 +414,7 @@ msgstr ""
 msgid "<0/> made peace with <1/>"
 msgstr "<0/> meow meow meow <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1214
+#: src/components/_user/notification/notification.frontConfig.tsx:1210
 msgid "<0/> mentioned you in <1/>: <2/>"
 msgstr ""
 
@@ -435,7 +435,7 @@ msgid "<0/> published a new article"
 msgstr "<0/> meow meow meow meow"
 
 #. placeholder {0}: data.level
-#: src/components/_user/notification/notification.frontConfig.tsx:1199
+#: src/components/_user/notification/notification.frontConfig.tsx:1195
 msgid "<0/> reached level {0}!"
 msgstr "<0/> meow meow {0}!"
 
@@ -444,12 +444,12 @@ msgid "<0/> referred you to the game."
 msgstr "<0/> meow meow meow meow meow."
 
 #. placeholder {0}: data.messageId && <MessageItemById messageId={data.messageId} />
-#: src/components/_user/notification/notification.frontConfig.tsx:870
+#: src/components/_user/notification/notification.frontConfig.tsx:866
 msgid "<0/> responded to your message {0}"
 msgstr "<0/> meow meow meow meow {0}"
 
 #. placeholder {0}: data.messageId && <MessageItemById messageId={data.messageId} />
-#: src/components/_user/notification/notification.frontConfig.tsx:858
+#: src/components/_user/notification/notification.frontConfig.tsx:856
 msgid "<0/> responded to your message in <1/>: {0}"
 msgstr ""
 
@@ -495,7 +495,7 @@ msgstr "<0/> meow meow meow <1>{0}</1>"
 msgid "<0/> won round {0}"
 msgstr "<0/> meow meow {0}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1553
+#: src/components/_user/notification/notification.frontConfig.tsx:1547
 msgid "<0/> won the auction on a contract with <1/>"
 msgstr "<0/> meow meow meow meow meow meow <1/>"
 
@@ -594,7 +594,7 @@ msgid "<0>{0}</0> Defense bonus"
 msgstr "<0>{0}</0> Meow meow"
 
 #. placeholder {0}: data.acceptanceFeeReturned
-#: src/components/_user/notification/notification.frontConfig.tsx:1616
+#: src/components/_user/notification/notification.frontConfig.tsx:1610
 msgid "<0>{0}</0> fee returned to MU."
 msgstr "<0>{0}</0> meow meow meow Meow."
 
@@ -671,7 +671,7 @@ msgid "<0>{0}</0> ground are required to win a round, points are gained every ti
 msgstr "<0>{0}</0> meow meow meow meow meow meow meow, meow meow meow meow meow"
 
 #. placeholder {0}: data.refund
-#: src/components/_user/notification/notification.frontConfig.tsx:1608
+#: src/components/_user/notification/notification.frontConfig.tsx:1602
 msgid "<0>{0}</0> returned to <1/>."
 msgstr "<0>{0}</0> meow meow <1/>."
 
@@ -1334,7 +1334,7 @@ msgstr "Meow meow"
 msgid "Admin"
 msgstr "Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2110
+#: src/components/_user/notification/notification.frontConfig.tsx:2104
 msgid "Admin notification"
 msgstr "Meow meow"
 
@@ -1496,7 +1496,7 @@ msgid "Amount of companies you can own"
 msgstr "Meow meow meow meow meow meow"
 
 #. placeholder {0}: data.refund
-#: src/components/_user/notification/notification.frontConfig.tsx:1588
+#: src/components/_user/notification/notification.frontConfig.tsx:1582
 msgid "An admin cancelled the contract. <0>{0}</0> returned to <1/>."
 msgstr "Meow meow meow meow meow. <0>{0}</0> meow meow <1/>."
 
@@ -1540,7 +1540,7 @@ msgstr "Meow Meow"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "Meow meow meow meow meow meow meow meow Meow meow meow meow. Meow meow meow meow meow <0>Meow-Meow-Meow</0> meow. Meow meow meow meow meow meow meow 200 meow meow meow."
 
-#: src/components/_layout/LayoutOptions.tsx:252
+#: src/components/_layout/LayoutOptions.tsx:242
 msgid "App pattern"
 msgstr "Meow meow"
 
@@ -1627,7 +1627,7 @@ msgstr "Meow"
 msgid "Article ID"
 msgstr "Meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1971
+#: src/components/_user/notification/notification.frontConfig.tsx:1965
 msgid "Article liked"
 msgstr "Meow meow"
 
@@ -1635,8 +1635,8 @@ msgstr "Meow meow"
 msgid "Article Tip"
 msgstr "Meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1973
-#: src/components/_user/notification/notification.frontConfig.tsx:1974
+#: src/components/_user/notification/notification.frontConfig.tsx:1967
+#: src/components/_user/notification/notification.frontConfig.tsx:1968
 msgid "Article tipped"
 msgstr "Meow meow"
 
@@ -1676,7 +1676,7 @@ msgstr "Meow"
 msgid "Auction Duration (minutes)"
 msgstr "Meow Meow (meow)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2094
+#: src/components/_user/notification/notification.frontConfig.tsx:2088
 msgid "Auction Outbid"
 msgstr "Meow Meow"
 
@@ -1698,7 +1698,7 @@ msgstr "Meow meow. Meow meow meow."
 msgid "Auto approval"
 msgstr "Meow meow"
 
-#: src/components/_layout/LayoutOptions.tsx:185
+#: src/components/_layout/LayoutOptions.tsx:175
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
@@ -1736,7 +1736,7 @@ msgstr "Meow Meow"
 msgid "Badge won"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1922
+#: src/components/_user/notification/notification.frontConfig.tsx:1916
 msgid "Badge Won"
 msgstr "Meow Meow"
 
@@ -1761,15 +1761,15 @@ msgstr "Meow"
 msgid "Banned"
 msgstr "Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1938
+#: src/components/_user/notification/notification.frontConfig.tsx:1932
 msgid "Banner Accepted!"
 msgstr "Meow Meow!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1935
+#: src/components/_user/notification/notification.frontConfig.tsx:1929
 msgid "Banner gift received"
 msgstr "Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1933
+#: src/components/_user/notification/notification.frontConfig.tsx:1927
 msgid "Banner gift sent"
 msgstr "Meow meow meow"
 
@@ -1809,7 +1809,7 @@ msgid "Battle"
 msgstr "Meow"
 
 #: src/components/_political/event/EventList.tsx:65
-#: src/components/_user/notification/notification.frontConfig.tsx:2019
+#: src/components/_user/notification/notification.frontConfig.tsx:2013
 msgid "Battle ended"
 msgstr "Meow meow"
 
@@ -1866,7 +1866,7 @@ msgstr "Meow Meow"
 msgid "Become a Candidate"
 msgstr "Meow meow Meow"
 
-#: src/components/_layout/LayoutOptions.tsx:205
+#: src/components/_layout/LayoutOptions.tsx:195
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
@@ -1959,15 +1959,15 @@ msgstr "Meow Meow"
 msgid "Budget"
 msgstr "Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2099
+#: src/components/_user/notification/notification.frontConfig.tsx:2093
 msgid "Buff ended"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2097
+#: src/components/_user/notification/notification.frontConfig.tsx:2091
 msgid "Buff expiring soon"
 msgstr "Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2095
+#: src/components/_user/notification/notification.frontConfig.tsx:2089
 msgid "Buff started"
 msgstr "Meow meow"
 
@@ -2332,8 +2332,8 @@ msgstr "Meow meow"
 msgid "Commander"
 msgstr "Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1941
-#: src/components/_user/notification/notification.frontConfig.tsx:1954
+#: src/components/_user/notification/notification.frontConfig.tsx:1935
+#: src/components/_user/notification/notification.frontConfig.tsx:1948
 msgid "Commission earned"
 msgstr "Meow meow"
 
@@ -2431,20 +2431,20 @@ msgid "Congratulations! You have been elected to the council of <0/>"
 msgstr "Meow! Meow meow meow meow meow meow meow meow <0/>"
 
 #. placeholder {0}: militaryRankingConfig[data.rank].percentDamages
-#: src/components/_user/notification/notification.frontConfig.tsx:1245
+#: src/components/_user/notification/notification.frontConfig.tsx:1239
 msgid "Congratulations! You have been promoted to <0/> with an attack bonus of <1>{0}</1>"
 msgstr "Meow! Meow meow meow meow meow <0/> meow meow meow meow meow <1>{0}</1>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1434
+#: src/components/_user/notification/notification.frontConfig.tsx:1428
 msgid "Congratulations! You won the giveaway and received cases!"
 msgstr "Meow! Meow meow meow meow meow meow meow!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:352
-#: src/components/_user/notification/notification.frontConfig.tsx:1084
+#: src/components/_user/notification/notification.frontConfig.tsx:1080
 msgid "Congratulations! Your application to <0/> has been accepted"
 msgstr "Meow! Meow meow meow <0/> meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1313
+#: src/components/_user/notification/notification.frontConfig.tsx:1307
 msgid "Congratulations! Your team <0/> won the tournament <1/>!"
 msgstr "Meow! Meow meow <0/> meow meow meow <1/>!"
 
@@ -2523,19 +2523,19 @@ msgstr "Meow meow meow meow <0>Meow</0> meow {0}meow.<1/> Meow meow meow meow me
 msgid "Contextual borders"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2086
+#: src/components/_user/notification/notification.frontConfig.tsx:2080
 msgid "Contract cancelled"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2083
+#: src/components/_user/notification/notification.frontConfig.tsx:2077
 msgid "Contract completed"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2089
+#: src/components/_user/notification/notification.frontConfig.tsx:2083
 msgid "Contract expired"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2092
+#: src/components/_user/notification/notification.frontConfig.tsx:2086
 msgid "Contract rolled back"
 msgstr "Meow meow meow"
 
@@ -2621,7 +2621,7 @@ msgid "Country Orders"
 msgstr "Meow Meow"
 
 #. placeholder {0}: data.partialPayout
-#: src/components/_user/notification/notification.frontConfig.tsx:1602
+#: src/components/_user/notification/notification.frontConfig.tsx:1596
 msgid "Country paid <0>{0}</0> for damages done."
 msgstr "Meow meow <0>{0}</0> meow meow meow."
 
@@ -2745,7 +2745,7 @@ msgstr "Meow"
 msgid "Daily maintenance"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2114
+#: src/components/_user/notification/notification.frontConfig.tsx:2108
 msgid "Daily Missions Reset"
 msgstr "Meow Meow Meow"
 
@@ -2851,7 +2851,7 @@ msgstr "Meow meow meow"
 msgid "Deals some damages"
 msgstr "Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2100
+#: src/components/_user/notification/notification.frontConfig.tsx:2094
 msgid "Debuff ended"
 msgstr "Meow meow"
 
@@ -2937,7 +2937,7 @@ msgstr "Meow Meow"
 msgid "Demote from Commander"
 msgstr "Meow meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2071
+#: src/components/_user/notification/notification.frontConfig.tsx:2065
 msgid "Demoted from Commander"
 msgstr "Meow meow Meow"
 
@@ -3165,15 +3165,15 @@ msgstr "Meow meow"
 msgid "Effective:"
 msgstr "Meow:"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1978
+#: src/components/_user/notification/notification.frontConfig.tsx:1972
 msgid "Election candidacy open"
 msgstr "Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1983
+#: src/components/_user/notification/notification.frontConfig.tsx:1977
 msgid "Election ended"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1981
+#: src/components/_user/notification/notification.frontConfig.tsx:1975
 msgid "Election vote open"
 msgstr "Meow meow meow"
 
@@ -3270,7 +3270,7 @@ msgid "Entrepreneurship"
 msgstr "Meow"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
-#: src/components/_layout/LayoutOptions.tsx:182
+#: src/components/_layout/LayoutOptions.tsx:172
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3566,7 +3566,7 @@ msgstr "Meow meow meow"
 msgid "Fire worker?"
 msgstr "Meow meow?"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1990
+#: src/components/_user/notification/notification.frontConfig.tsx:1984
 msgid "Fired from government"
 msgstr "Meow meow meow"
 
@@ -3582,11 +3582,11 @@ msgstr "Meow"
 msgid "Flail"
 msgstr "Meow"
 
-#: src/components/_layout/LayoutOptions.tsx:222
+#: src/components/_layout/LayoutOptions.tsx:212
 msgid "Font"
 msgstr "Meow"
 
-#: src/components/_layout/LayoutOptions.tsx:234
+#: src/components/_layout/LayoutOptions.tsx:224
 msgid "Font size"
 msgstr "Meow meow"
 
@@ -3696,7 +3696,7 @@ msgstr "Meow meow meow meow meow meow meow meow meow meow meow meow."
 msgid "Giveaway Winner"
 msgstr "Meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2112
+#: src/components/_user/notification/notification.frontConfig.tsx:2106
 msgid "Giveaway Won!"
 msgstr "Meow Meow!"
 
@@ -4092,7 +4092,7 @@ msgstr "Meow meow meow meow… meow"
 msgid "It will not gain any production and its workers will not be able to work."
 msgstr "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1963
+#: src/components/_user/notification/notification.frontConfig.tsx:1957
 msgid "Item bought"
 msgstr "Meow meow"
 
@@ -4198,7 +4198,7 @@ msgstr "Meow meow meow meow meow"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Meow <0>{count}</0> meow meow"
 
-#: src/components/_layout/LayoutOptions.tsx:175
+#: src/components/_layout/LayoutOptions.tsx:165
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Language"
 msgstr "Meow"
@@ -4250,7 +4250,7 @@ msgid "Law failed"
 msgstr "Meow meow"
 
 #: src/components/_political/law/LawFormModal.tsx:76
-#: src/components/_user/notification/notification.frontConfig.tsx:1976
+#: src/components/_user/notification/notification.frontConfig.tsx:1970
 msgid "Law proposed"
 msgstr "Meow meow"
 
@@ -4315,7 +4315,7 @@ msgstr "Meow {level}"
 msgid "Level up your skills!"
 msgstr "Meow meow meow meow!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1923
+#: src/components/_user/notification/notification.frontConfig.tsx:1917
 msgid "Level up!"
 msgstr "Meow meow!"
 
@@ -4372,7 +4372,7 @@ msgstr "Meow meow meow meow"
 msgid "Limited:"
 msgstr "Meow:"
 
-#: src/components/_layout/LayoutOptions.tsx:264
+#: src/components/_layout/LayoutOptions.tsx:254
 msgid "Line"
 msgstr "Meow"
 
@@ -4429,7 +4429,7 @@ msgstr "Meow Meow"
 msgid "Loot chance"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2039
+#: src/components/_user/notification/notification.frontConfig.tsx:2033
 msgid "Loot reward"
 msgstr "Meow meow"
 
@@ -4596,7 +4596,7 @@ msgstr "Meow meow meow meow"
 msgid "Members"
 msgstr "Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2107
+#: src/components/_user/notification/notification.frontConfig.tsx:2101
 msgid "Mentioned in message"
 msgstr "Meow meow meow"
 
@@ -4627,7 +4627,7 @@ msgstr "Meow Meow"
 msgid "Message (Optional)"
 msgstr "Meow (Meow)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2105
+#: src/components/_user/notification/notification.frontConfig.tsx:2099
 msgid "Message liked"
 msgstr "Meow meow"
 
@@ -4656,7 +4656,7 @@ msgstr "Meow meow"
 msgid "Military Rank"
 msgstr "Meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2018
+#: src/components/_user/notification/notification.frontConfig.tsx:2012
 msgid "Military Rank Up!"
 msgstr "Meow Meow Meow!"
 
@@ -4794,7 +4794,7 @@ msgstr "Meow meow meow"
 msgid "Move to top"
 msgstr "Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1959
+#: src/components/_user/notification/notification.frontConfig.tsx:1953
 msgid "Moved to a new company"
 msgstr "Meow meow meow meow meow"
 
@@ -4803,19 +4803,19 @@ msgstr "Meow meow meow meow meow"
 msgid "MU"
 msgstr "Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2058
+#: src/components/_user/notification/notification.frontConfig.tsx:2052
 msgid "MU Application Accepted"
 msgstr "Meow Meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2055
+#: src/components/_user/notification/notification.frontConfig.tsx:2049
 msgid "MU Application Rejected"
 msgstr "Meow Meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2077
+#: src/components/_user/notification/notification.frontConfig.tsx:2071
 msgid "MU Donation Received"
 msgstr "Meow Meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2063
+#: src/components/_user/notification/notification.frontConfig.tsx:2057
 msgid "MU Level Up!"
 msgstr "Meow Meow Meow!"
 
@@ -4827,7 +4827,7 @@ msgstr "Meow Meow Meow"
 msgid "MU Orders"
 msgstr "Meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2074
+#: src/components/_user/notification/notification.frontConfig.tsx:2068
 msgid "MU Ownership Transferred"
 msgstr "Meow Meow Meow"
 
@@ -4919,15 +4919,15 @@ msgstr "Meow"
 msgid "New API Token Created"
 msgstr "Meow Meow Meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1970
+#: src/components/_user/notification/notification.frontConfig.tsx:1964
 msgid "New article"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1972
+#: src/components/_user/notification/notification.frontConfig.tsx:1966
 msgid "New comment"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2080
+#: src/components/_user/notification/notification.frontConfig.tsx:2074
 msgid "New contract accepted"
 msgstr "Meow meow meow"
 
@@ -4953,7 +4953,7 @@ msgstr "Meow meow"
 msgid "New Mercenary Auction"
 msgstr "Meow Meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2101
+#: src/components/_user/notification/notification.frontConfig.tsx:2095
 msgid "New message"
 msgstr "Meow meow"
 
@@ -4961,7 +4961,7 @@ msgstr "Meow meow"
 msgid "New military unit"
 msgstr "Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2061
+#: src/components/_user/notification/notification.frontConfig.tsx:2055
 msgid "New MU Application"
 msgstr "Meow Meow Meow"
 
@@ -4969,28 +4969,28 @@ msgstr "Meow Meow Meow"
 msgid "New name"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2013
+#: src/components/_user/notification/notification.frontConfig.tsx:2007
 msgid "New Party Application"
 msgstr "Meow Meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2002
+#: src/components/_user/notification/notification.frontConfig.tsx:1996
 msgid "New Party Leader"
 msgstr "Meow Meow Meow"
 
 #: src/components/_political/event/EventList.tsx:66
-#: src/components/_user/notification/notification.frontConfig.tsx:1985
+#: src/components/_user/notification/notification.frontConfig.tsx:1979
 msgid "New president"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2016
+#: src/components/_user/notification/notification.frontConfig.tsx:2010
 msgid "New referred user"
 msgstr "Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2017
+#: src/components/_user/notification/notification.frontConfig.tsx:2011
 msgid "New referrer"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1975
+#: src/components/_user/notification/notification.frontConfig.tsx:1969
 msgid "New subscriber"
 msgstr "Meow meow"
 
@@ -4998,7 +4998,7 @@ msgstr "Meow meow"
 msgid "New supporters"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1956
+#: src/components/_user/notification/notification.frontConfig.tsx:1950
 msgid "New worker"
 msgstr "Meow meow"
 
@@ -5193,7 +5193,7 @@ msgstr "Meow"
 msgid "Nominate a {title}"
 msgstr "Meow meow {title}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1987
+#: src/components/_user/notification/notification.frontConfig.tsx:1981
 msgid "Nominated at government"
 msgstr "Meow meow meow"
 
@@ -5395,7 +5395,7 @@ msgstr "Meow Meow Meow"
 msgid "Owner"
 msgstr "Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1154
+#: src/components/_user/notification/notification.frontConfig.tsx:1150
 msgid "Ownership of <0/> has been transferred from <1/> to <2/>"
 msgstr "Meow meow <0/> meow meow meow meow <1/> meow <2/>"
 
@@ -5440,11 +5440,11 @@ msgstr "Meow"
 msgid "Party"
 msgstr "Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2007
+#: src/components/_user/notification/notification.frontConfig.tsx:2001
 msgid "Party Application Accepted"
 msgstr "Meow Meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2010
+#: src/components/_user/notification/notification.frontConfig.tsx:2004
 msgid "Party Application Rejected"
 msgstr "Meow Meow Meow"
 
@@ -5468,15 +5468,15 @@ msgstr "Meow Meow meow meow meow meow meow meow <0/>"
 msgid "Party created"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1993
+#: src/components/_user/notification/notification.frontConfig.tsx:1987
 msgid "Party election candidacy open"
 msgstr "Meow meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1999
+#: src/components/_user/notification/notification.frontConfig.tsx:1993
 msgid "Party election ended"
 msgstr "Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1996
+#: src/components/_user/notification/notification.frontConfig.tsx:1990
 msgid "Party election vote open"
 msgstr "Meow meow meow meow"
 
@@ -5628,23 +5628,23 @@ msgstr "Meow"
 msgid "Premium & Gifts"
 msgstr "Meow & Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1924
+#: src/components/_user/notification/notification.frontConfig.tsx:1918
 msgid "Premium activated"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1925
+#: src/components/_user/notification/notification.frontConfig.tsx:1919
 msgid "Premium expired"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1931
+#: src/components/_user/notification/notification.frontConfig.tsx:1925
 msgid "Premium gift expired"
 msgstr "Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1928
+#: src/components/_user/notification/notification.frontConfig.tsx:1922
 msgid "Premium gift received"
 msgstr "Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1926
+#: src/components/_user/notification/notification.frontConfig.tsx:1920
 msgid "Premium gift sent"
 msgstr "Meow meow meow"
 
@@ -5680,7 +5680,7 @@ msgstr "Meow meow"
 msgid "Primary election"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2004
+#: src/components/_user/notification/notification.frontConfig.tsx:1998
 msgid "Primary Election Ended"
 msgstr "Meow Meow Meow"
 
@@ -5748,7 +5748,7 @@ msgstr "Meow meow:"
 msgid "Production in<0/> is full, you should start production!"
 msgstr "Meow meow<0/> meow meow, meow meow meow meow!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1965
+#: src/components/_user/notification/notification.frontConfig.tsx:1959
 msgid "Production is full"
 msgstr "Meow meow meow"
 
@@ -5769,7 +5769,7 @@ msgstr "Meow"
 msgid "Promote to Commander"
 msgstr "Meow meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2068
+#: src/components/_user/notification/notification.frontConfig.tsx:2062
 msgid "Promoted to Commander"
 msgstr "Meow meow Meow"
 
@@ -5869,7 +5869,7 @@ msgstr "Meow meow meow"
 msgid "Ranking"
 msgstr "Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2015
+#: src/components/_user/notification/notification.frontConfig.tsx:2009
 msgid "Ranking reward"
 msgstr "Meow meow"
 
@@ -6031,7 +6031,7 @@ msgstr "Meow"
 msgid "Region buy offer"
 msgstr "Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2031
+#: src/components/_user/notification/notification.frontConfig.tsx:2025
 msgid "Region is revolting!"
 msgstr "Meow meow meow!"
 
@@ -6141,7 +6141,7 @@ msgstr "Meow meow"
 msgid "Remove the current party leader from their position"
 msgstr "Meow meow meow meow meow meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2065
+#: src/components/_user/notification/notification.frontConfig.tsx:2059
 msgid "Removed from Military Unit"
 msgstr "Meow meow Meow Meow"
 
@@ -6256,7 +6256,7 @@ msgstr "Meow"
 msgid "Resources reshuffled"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2103
+#: src/components/_user/notification/notification.frontConfig.tsx:2097
 msgid "Response to message"
 msgstr "Meow meow meow"
 
@@ -6272,7 +6272,7 @@ msgstr "Meow meow meow meow meow meow meow"
 msgid "Revoke API token?"
 msgstr "Meow Meow meow?"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2034
+#: src/components/_user/notification/notification.frontConfig.tsx:2028
 msgid "Revolt started!"
 msgstr "Meow meow!"
 
@@ -6288,7 +6288,7 @@ msgstr "Meow meow"
 msgid "Revolution started"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2037
+#: src/components/_user/notification/notification.frontConfig.tsx:2031
 msgid "Revolution started!"
 msgstr "Meow meow!"
 
@@ -6341,11 +6341,11 @@ msgstr "Meow #{0}"
 msgid "Round <0>#{0}</0> in <1/> is about to end!"
 msgstr "Meow <0>#{0}</0> meow <1/> meow meow meow meow!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2022
+#: src/components/_user/notification/notification.frontConfig.tsx:2016
 msgid "Round about to end"
 msgstr "Meow meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2020
+#: src/components/_user/notification/notification.frontConfig.tsx:2014
 msgid "Round ended"
 msgstr "Meow meow"
 
@@ -6701,15 +6701,15 @@ msgstr "Meow meow meow meow. Meow'meow meow meow meow!"
 msgid "Skills saved!"
 msgstr "Meow meow!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1945
+#: src/components/_user/notification/notification.frontConfig.tsx:1939
 msgid "Skin gift received"
 msgstr "Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1943
+#: src/components/_user/notification/notification.frontConfig.tsx:1937
 msgid "Skin gift sent"
 msgstr "Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1948
+#: src/components/_user/notification/notification.frontConfig.tsx:1942
 msgid "Skin pack gift sent"
 msgstr "Meow meow meow meow"
 
@@ -6721,7 +6721,7 @@ msgstr "Meow meow meow! Meow meow meow!"
 msgid "Skin Packs"
 msgstr "Meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2119
+#: src/components/_user/notification/notification.frontConfig.tsx:2113
 msgid "Skin Reward"
 msgstr "Meow Meow"
 
@@ -7026,7 +7026,7 @@ msgstr "Meow"
 msgid "Terms of Service"
 msgstr "Meow meow Meow"
 
-#: src/components/_layout/LayoutOptions.tsx:275
+#: src/components/_layout/LayoutOptions.tsx:265
 msgid "Texture"
 msgstr "Meow"
 
@@ -7055,12 +7055,12 @@ msgid "The civil war started by <0/> in <1/> has succeeded of <2/> and the gover
 msgstr "Meow meow meow meow meow <0/> meow <1/> meow meow meow <2/> meow meow meow meow meow meow."
 
 #. placeholder {0}: data.refund
-#: src/components/_user/notification/notification.frontConfig.tsx:1640
+#: src/components/_user/notification/notification.frontConfig.tsx:1634
 msgid "The contract for <0/> has expired. <1>{0}</1> returned to <2/>."
 msgstr "Meow meow meow <0/> meow meow. <1>{0}</1> meow meow <2/>."
 
 #. placeholder {0}: data.moneyRolledBack
-#: src/components/_user/notification/notification.frontConfig.tsx:1658
+#: src/components/_user/notification/notification.frontConfig.tsx:1652
 msgid "The contract has been rolled back. <0>{0}</0> sent back to <1/>."
 msgstr "Meow meow meow meow meow. <0>{0}</0> meow meow <1/>."
 
@@ -7098,7 +7098,7 @@ msgstr "Meow meow meow <0/> meow meow! Meow meow meow meow meow."
 msgid "The strategic resource will be reshuffled in the following amount of time."
 msgstr "Meow meow meow meow meow meow meow meow meow meow meow meow."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1358
+#: src/components/_user/notification/notification.frontConfig.tsx:1352
 msgid "The tournament has ended for your team <0/>. Check the results!"
 msgstr "Meow meow meow meow meow meow meow <0/>. Meow meow meow!"
 
@@ -7186,10 +7186,6 @@ msgstr "Meow meow meow meow meow meow! Meow'meow meow meow meow."
 #: src/components/_other/tour/tuto.frontConfig.tsx:45
 msgid "Time to produce!"
 msgstr "Meow meow meow!"
-
-#: src/components/_layout/LayoutOptions.tsx:165
-msgid "Tiny chat tabs"
-msgstr ""
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:17
 msgid "Tiny Pixel"
@@ -7377,15 +7373,15 @@ msgstr "Meow"
 msgid "Tournament battle for {tournamentName} {score}"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2045
+#: src/components/_user/notification/notification.frontConfig.tsx:2039
 msgid "Tournament Created"
 msgstr "Meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2052
+#: src/components/_user/notification/notification.frontConfig.tsx:2046
 msgid "Tournament Eliminated"
 msgstr "Meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2050
+#: src/components/_user/notification/notification.frontConfig.tsx:2044
 msgid "Tournament Ended"
 msgstr "Meow Meow"
 
@@ -7393,15 +7389,15 @@ msgstr "Meow Meow"
 msgid "Tournament reward:"
 msgstr "Meow meow:"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2041
+#: src/components/_user/notification/notification.frontConfig.tsx:2035
 msgid "Tournament round won!"
 msgstr "Meow meow meow!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2048
+#: src/components/_user/notification/notification.frontConfig.tsx:2042
 msgid "Tournament Started"
 msgstr "Meow Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2043
+#: src/components/_user/notification/notification.frontConfig.tsx:2037
 msgid "Tournament Won!"
 msgstr "Meow Meow!"
 
@@ -7414,7 +7410,7 @@ msgstr "Meow"
 msgid "Trading"
 msgstr "Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1968
+#: src/components/_user/notification/notification.frontConfig.tsx:1962
 msgid "Trading transaction"
 msgstr "Meow meow"
 
@@ -7507,7 +7503,7 @@ msgstr "Meow Meow meow meow"
 msgid "Unlock Produce all button"
 msgstr "Meow Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1951
+#: src/components/_user/notification/notification.frontConfig.tsx:1945
 msgid "Unlocked pack"
 msgstr "Meow meow"
 
@@ -7827,7 +7823,7 @@ msgstr "Meow"
 msgid "Wage"
 msgstr "Meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1961
+#: src/components/_user/notification/notification.frontConfig.tsx:1955
 msgid "Wage changed"
 msgstr "Meow meow"
 
@@ -7843,7 +7839,7 @@ msgstr "Meow meow meow"
 msgid "Wage reduction accepted."
 msgstr "Meow meow meow."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1962
+#: src/components/_user/notification/notification.frontConfig.tsx:1956
 #: src/components/_user/worker/WageReductionAlert.tsx:66
 msgid "Wage reduction proposed"
 msgstr "Meow meow meow"
@@ -7920,7 +7916,7 @@ msgstr "Meow meow"
 msgid "Weekly damages"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2117
+#: src/components/_user/notification/notification.frontConfig.tsx:2111
 msgid "Weekly Missions Reset"
 msgstr "Meow Meow Meow"
 
@@ -7995,7 +7991,7 @@ msgstr "Meow meow meow!"
 msgid "Worker fired!"
 msgstr "Meow meow!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1957
+#: src/components/_user/notification/notification.frontConfig.tsx:1951
 msgid "Worker left"
 msgstr "Meow meow"
 
@@ -8012,7 +8008,7 @@ msgstr "Meow"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Meow meow meow meow meow meow meow meow meow meow meow meow meow."
 
-#: src/components/_layout/LayoutOptions.tsx:217
+#: src/components/_layout/LayoutOptions.tsx:207
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""
@@ -8129,15 +8125,15 @@ msgstr "Meow meow meow meow meow meow meow meow meow meow/meow meow"
 msgid "You don't have permission to view applications."
 msgstr "Meow meow'meow meow meow meow meow meow."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1525
+#: src/components/_user/notification/notification.frontConfig.tsx:1519
 msgid "You earned gems from a banner sale!"
 msgstr "Meow meow meow meow meow meow meow!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1869
+#: src/components/_user/notification/notification.frontConfig.tsx:1863
 msgid "You earned gems from a sale of \"{skinTitle}\"!"
 msgstr "Meow meow meow meow meow meow meow \"{skinTitle}\"!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1871
+#: src/components/_user/notification/notification.frontConfig.tsx:1865
 msgid "You earned gems from a skin pack sale!"
 msgstr "Meow meow meow meow meow meow meow meow!"
 
@@ -8157,7 +8153,7 @@ msgstr "Meow meow meow meow meow meow meow meow meow meow meow"
 msgid "You have a case!"
 msgstr "Meow meow meow meow!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1140
+#: src/components/_user/notification/notification.frontConfig.tsx:1136
 msgid "You have been demoted from commander in <0/> by <1/>"
 msgstr "Meow meow meow meow meow meow meow <0/> meow <1/>"
 
@@ -8165,11 +8161,11 @@ msgstr "Meow meow meow meow meow meow meow <0/> meow <1/>"
 msgid "You have been elected as the new leader of <0/>"
 msgstr "Meow meow meow meow meow meow meow meow meow <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1126
+#: src/components/_user/notification/notification.frontConfig.tsx:1122
 msgid "You have been promoted to commander in <0/> by <1/>"
 msgstr "Meow meow meow meow meow meow meow <0/> meow <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1112
+#: src/components/_user/notification/notification.frontConfig.tsx:1108
 msgid "You have been removed from <0/> by <1/>"
 msgstr "Meow meow meow meow meow <0/> meow <1/>"
 
@@ -8249,22 +8245,22 @@ msgstr "Meow meow meow meow meow meow meow"
 msgid "You paid the dev's bills <3 (top 3 in monthly supporter gifts ranking)"
 msgstr "Meow meow meow meow'meow meow <3 (meow 3 meow meow meow meow meow)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1056
+#: src/components/_user/notification/notification.frontConfig.tsx:1052
 msgid "You premium gift from <0/> has expired! Would you consider subscribing and supporting the game? 👉👈"
 msgstr "Meow meow meow meow <0/> meow meow! Meow meow meow meow meow meow meow meow? 👉👈"
 
 #. placeholder {0}: data.rank
-#: src/components/_user/notification/notification.frontConfig.tsx:1267
+#: src/components/_user/notification/notification.frontConfig.tsx:1261
 msgid "You received a loot item for rank <0>#{0}</0> in <1/>"
 msgstr "Meow meow meow meow meow meow meow <0>#{0}</0> meow <1/>"
 
 #. placeholder {0}: data.muId ? ( <MuName muId={data.muId} /> ) : data.countryId ? ( <CountryName countryId={data.countryId} /> ) : ( 'your' )
 #. placeholder {1}: data.rank && ( <> position{' '} <Typo fw='bold' color='text1'> #{data.rank} </Typo> </> )
-#: src/components/_user/notification/notification.frontConfig.tsx:1393
+#: src/components/_user/notification/notification.frontConfig.tsx:1387
 msgid "You received a reward for {0} {1} in<0/> tier in the ranking <1/>"
 msgstr "Meow meow meow meow meow {0} {1} meow<0/> meow meow meow meow <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1889
+#: src/components/_user/notification/notification.frontConfig.tsx:1883
 msgid "You received the skin \"{skinTitle}\"!"
 msgstr "Meow meow meow meow \"{skinTitle}\" meow!"
 
@@ -8273,20 +8269,20 @@ msgid "You sold items."
 msgstr "Meow meow meow."
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1448
+#: src/components/_user/notification/notification.frontConfig.tsx:1442
 msgid "You successfully gifted \"{0}\" to <0/>!"
 msgstr "Meow meow meow \"{0}\" meow <0/>!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1714
+#: src/components/_user/notification/notification.frontConfig.tsx:1708
 msgid "You successfully gifted \"{skinTitle}\" to <0/>!"
 msgstr "Meow meow meow \"{skinTitle}\" meow <0/>!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1021
+#: src/components/_user/notification/notification.frontConfig.tsx:1017
 msgid "You successfully gifted a premium subscription to <0/>!"
 msgstr "Meow meow meow meow meow meow meow <0/>!"
 
 #. placeholder {0}: data.skinPackTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1778
+#: src/components/_user/notification/notification.frontConfig.tsx:1772
 msgid "You successfully gifted the skin pack \"{0}\" to <0/>!"
 msgstr "Meow meow meow meow meow meow \"{0}\" meow <0/>!"
 
@@ -8310,8 +8306,8 @@ msgstr "Meow meow meow meow meow meow meow <0/>"
 msgid "You were an alpha tester (user before 20 march 2025)"
 msgstr "Meow meow meow meow meow (meow meow 20 meow 2025)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1984
-#: src/components/_user/notification/notification.frontConfig.tsx:2001
+#: src/components/_user/notification/notification.frontConfig.tsx:1978
+#: src/components/_user/notification/notification.frontConfig.tsx:1995
 msgid "You were elected"
 msgstr "Meow meow meow"
 
@@ -8409,7 +8405,7 @@ msgid "Your ancestors are proud"
 msgstr "Meow meow meow meow"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:366
-#: src/components/_user/notification/notification.frontConfig.tsx:1071
+#: src/components/_user/notification/notification.frontConfig.tsx:1067
 msgid "Your application to <0/> has been rejected"
 msgstr "Meow meow meow <0/> meow meow meow"
 
@@ -8418,7 +8414,7 @@ msgid "Your article reached 2% of the active population in score (min 10)"
 msgstr "Meow meow meow 2% meow meow meow meow meow meow (meow 10)"
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1539
+#: src/components/_user/notification/notification.frontConfig.tsx:1533
 msgid "Your banner \"{0}\" has been accepted and is now available in the shop! It has been automatically unlocked for you."
 msgstr "Meow meow \"{0}\" meow meow meow meow meow meow meow meow meow meow! Meow meow meow meow meow meow meow."
 
@@ -8434,15 +8430,15 @@ msgstr "Meow meow meow meow meow meow"
 msgid "Your country"
 msgstr "Meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2025
+#: src/components/_user/notification/notification.frontConfig.tsx:2019
 msgid "Your country is under attack!"
 msgstr "Meow meow meow meow meow!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2028
+#: src/components/_user/notification/notification.frontConfig.tsx:2022
 msgid "Your country launched an attack!"
 msgstr "Meow meow meow meow meow!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:941
+#: src/components/_user/notification/notification.frontConfig.tsx:937
 msgid "Your country started a revolt in <0/> against <1/>"
 msgstr "Meow meow meow meow meow meow <0/> meow <1/>"
 
@@ -8454,7 +8450,7 @@ msgstr "Meow meow meow"
 msgid "Your current order"
 msgstr "Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1688
+#: src/components/_user/notification/notification.frontConfig.tsx:1682
 msgid "Your daily missions have been reset! Complete them to earn rewards."
 msgstr "Meow meow meow meow meow meow! Meow meow meow meow meow."
 
@@ -8519,11 +8515,11 @@ msgstr "Meow meow"
 msgid "Your party name"
 msgstr "Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1003
+#: src/components/_user/notification/notification.frontConfig.tsx:999
 msgid "Your premium subscription has been activated!"
 msgstr "Meow meow meow meow meow meow!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1012
+#: src/components/_user/notification/notification.frontConfig.tsx:1008
 msgid "Your premium subscription has expired!"
 msgstr "Meow meow meow meow meow!"
 
@@ -8535,11 +8531,11 @@ msgstr "Meow meow"
 msgid "Your referral link"
 msgstr "Meow meow meow"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1372
+#: src/components/_user/notification/notification.frontConfig.tsx:1366
 msgid "Your team <0/> has been eliminated from the <1/>"
 msgstr "Meow meow <0/> meow meow meow meow meow <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1283
+#: src/components/_user/notification/notification.frontConfig.tsx:1277
 msgid "Your team <0/> won a round in <1/>!"
 msgstr "Meow meow <0/> meow meow meow meow <1/>!"
 
@@ -8553,7 +8549,7 @@ msgstr "Meow meow:"
 msgid "Your wage in <0/> changed from <1>{0}</1> to <2>{1}</2>"
 msgstr "Meow meow meow <0/> meow meow <1>{0}</1> meow <2>{1}</2>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1700
+#: src/components/_user/notification/notification.frontConfig.tsx:1694
 msgid "Your weekly missions have been reset! Complete them to earn rewards."
 msgstr "Meow meow meow meow meow meow! Meow meow meow meow meow."
 
