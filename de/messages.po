@@ -408,7 +408,7 @@ msgstr "<0/> hat deine Nachricht geliked <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:820
 msgid "<0/> liked your message in <1/><2/>"
-msgstr ""
+msgstr "<0/> gefällt deine Nachricht in <1/><2/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:241
 msgid "<0/> made peace with <1/>"
@@ -416,7 +416,7 @@ msgstr "<0/> hat Frieden mit <1/> geschlossen"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1209
 msgid "<0/> mentioned you in <1/><2/>"
-msgstr ""
+msgstr "<0/> hat dich markiert in <1/><2/>"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:221
 msgid "<0/> paid fee"
@@ -451,7 +451,7 @@ msgstr "<0/> antwortete auf deine Nachricht {0}"
 #. placeholder {0}: data.messageId && <MessageItemById messageId={data.messageId} />
 #: src/components/_user/notification/notification.frontConfig.tsx:856
 msgid "<0/> responded to your message in <1/>{0}"
-msgstr ""
+msgstr "<0/> hat auf deine Nachricht geantwortet in <1/>{0}"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:141
 msgid "<0/> started, vote for your favorite candidate"
@@ -8533,7 +8533,7 @@ msgstr "Dein Empfehlungslink"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:66
 msgid "Your team"
-msgstr ""
+msgstr "Dein Team"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1365
 msgid "Your team <0/> has been eliminated from the <1/>"
